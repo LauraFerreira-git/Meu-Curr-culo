@@ -8,3 +8,4 @@ Laura Ferreira Santana, 16 anos
 4. Inslação Linux e Windowns
 5. Inglês básico 
 6. Curso SENAI: Desenvolvimentos de Sistema
+7. Linguagem de Marcação de HiperTexto (HTML)
