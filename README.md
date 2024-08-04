@@ -2,6 +2,8 @@ Currículo 📃
 
 Laura Ferreira Santana, 16 anos
 
+HABILIDADES:
+
 1. Python
 2. Requisitos: funcionais e não funcionais
 3. Redes com IOT
